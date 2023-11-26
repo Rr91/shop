@@ -20,6 +20,10 @@
 
 ```
 cd ~/dev/first-project
+```
+```
 rm readme.txt
+```
+```
 touch README.md
 ```
